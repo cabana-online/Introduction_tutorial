@@ -1,6 +1,6 @@
 # Basic bioinformatics tutorial
 
-This repository contains three introductory and mandatory modules for the development of the courses [Bioinformatics for SARS-CoV-2 analysis for beginners](hhttps://github.com/lusacristan/SARS-CoV-2-Course-english) and [Genomic Surveillance of *S.pneumoniae* and *S. agalactiae*](https://github.com/lusacristan/Genomic_surveillance_course_english).
+This repository contains three introductory and mandatory modules for the development of the courses [Bioinformatics for SARS-CoV-2 analysis for beginners](https://github.com/cabana-online/Course_SARS_CoV-2) and [Genomic Surveillance of *S.pneumoniae* and *S. agalactiae*](https://github.com/cabana-online/Genomic_surveillance).
 
 ### Module 1: [Introduction to Google Colaboratory](01.Intro_to_colab.ipynb)
 
